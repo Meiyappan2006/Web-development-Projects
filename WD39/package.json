@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^22.16.0",
+    "superheroes": "^4.0.0"
+  }
+}
